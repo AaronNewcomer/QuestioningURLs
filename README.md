@@ -35,4 +35,7 @@ List of URLS that ask a question and return an answer in the body of the page
 
 # Special Mentions
 More sites that should be included
-## https://www.reddit.com/r/IsTodayFridayThe13th/
+
+### https://www.reddit.com/r/IsTodayFridayThe13th/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/istodayfridaythe13th.png" width="400px"/>
+
