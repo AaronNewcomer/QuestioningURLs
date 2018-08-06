@@ -28,6 +28,9 @@ List of URLS that ask a question and return an answer in the body of the page
 ### http://www.isxkcdshittytoday.com/
 <img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/isxkcdshittytodaycom.png" width="400px"/>
 
+### http://www.doeslifesuck.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/doeslifesuckcom.png" width="400px"/>
+
 
 
 # Special Mentions
