@@ -1,18 +1,35 @@
 # Questioning URLs
 List of URLS that ask a question and return an answer in the body of the page
 
+### http://ismycomputeron.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/ismycomputeroncom.png" width="400px"/>
 
-* http://ismycomputeron.com/
-* http://isdmxinjail.com/
-* http://www.didthanoskill.me/
-* http://isitthursday.org/
-* http://dowebsitesneedtolookexactlythesameineverybrowser.com/
-* http://hasthelargehadroncolliderdestroyedtheworldyet.com/
-* http://didthetribewinlastnight.com/
-* https://isitchristmas.com/
-* http://www.isxkcdshittytoday.com/
+### http://isdmxinjail.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/isdmxinjailcom.png" width="400px"/>
+
+### http://www.didthanoskill.me/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/didthanoskillme.png" width="400px"/>
+
+### http://isitthursday.org/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/isitthursdayorg.png" width="400px"/>
+
+### http://dowebsitesneedtolookexactlythesameineverybrowser.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/dowebsitesneedtolookexactlythesameineverybrowsercom.png" width="400px"/>
+
+### http://hasthelargehadroncolliderdestroyedtheworldyet.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/hasthelargehadroncolliderdestroyedtheworldyetcom.png" width="400px"/>
+
+### http://didthetribewinlastnight.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/didthetribewinlastnightcom.png" width="400px"/>
+
+### https://isitchristmas.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/isitchristmascom.png" width="400px"/>
+
+### http://www.isxkcdshittytoday.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/isxkcdshittytodaycom.png" width="400px"/>
+
 
 
 # Special Mentions
 More sites that should be included
-* https://www.reddit.com/r/IsTodayFridayThe13th/
+## https://www.reddit.com/r/IsTodayFridayThe13th/
