@@ -34,6 +34,9 @@ List of URLS that ask a question and return an answer in the body of the page
 ### http://www.howmanypeopleareinspacerightnow.com/
 <img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/howmanypeopleareinspacerightnowcom.png" width="400px"/>
 
+### http://www.amiawesome.com/
+<img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/amiawesomecom.png" width="400px"/>
+
 
 
 # Special Mentions
