@@ -39,3 +39,7 @@ More sites that should be included
 ### https://www.reddit.com/r/IsTodayFridayThe13th/
 <img src="https://github.com/AaronNewcomer/QuestioningURLs/blob/master/images/istodayfridaythe13th.png" width="400px"/>
 
+
+
+# Notes
+Feel free to make a pull request and add to this list! I use https://www.screely.com/ to make the screenshots. 
