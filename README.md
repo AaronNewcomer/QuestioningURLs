@@ -66,6 +66,10 @@ More sites that should be included
 ### <https://www.reddit.com/r/IsTodayFridayThe13th/>
 <img src="images/istodayfridaythe13th.png" width="400px"/>
 
+## Is There a List of Questioning URLs?
+### <http://IsThereAListOfQuestioningURLs.com>
+<img src="images/istodayfridaythe13th.png" width="400px"/>
+
 
 
 
