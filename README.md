@@ -74,4 +74,4 @@ More sites that should be included
 
 
 # Notes
-Feel free to make a pull request and add to this list! I use https://www.screely.com/ to make the screenshots. 
+Feel free to make a pull request and add to this list! I use <https://www.screely.com/> to make the screenshots. 
