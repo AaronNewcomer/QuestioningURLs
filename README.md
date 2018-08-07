@@ -77,6 +77,10 @@ List of URLS that ask a question and return an answer in the body of the page
 ### <http://isittimeforanap.com/>
 <img src="images/isittimeforanapcom.png" width="400px"/>
 
+## How Much is a Bitcoin Worth?
+### <http://howmuchisabitcoinworth.com/>
+<img src="images/howmuchisabitcoinworthcom.png" width="400px"/>
+
 
 
 # Special Mentions
