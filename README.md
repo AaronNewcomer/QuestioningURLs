@@ -62,6 +62,11 @@ List of URLS that ask a question and return an answer in the body of the page
 <img src="images/doihaveswinefluorg.png" width="400px"/>
 
 
+## Is Mr Brightside Still in the Charts?
+### <http://ismrbrightsidestillinthecharts.com/>
+<img src="images/ismrbrightsidestillinthechartscom.png" width="400px"/>
+
+
 
 # Special Mentions
 More sites that should be included
