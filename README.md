@@ -1,46 +1,46 @@
 # Questioning URLs
 List of URLS that ask a question and return an answer in the body of the page
 
-### http://ismycomputeron.com/
+### <http://ismycomputeron.com/>
 <img src="images/ismycomputeroncom.png" width="400px"/>
 
-### http://isdmxinjail.com/
+### <http://isdmxinjail.com/>
 <img src="images/isdmxinjailcom.png" width="400px"/>
 
-### http://www.didthanoskill.me/
+### <http://www.didthanoskill.me/>
 <img src="images/didthanoskillme.png" width="400px"/>
 
-### http://isitthursday.org/
+### <http://isitthursday.org/>
 <img src="images/isitthursdayorg.png" width="400px"/>
 
-### http://dowebsitesneedtolookexactlythesameineverybrowser.com/
+### <http://dowebsitesneedtolookexactlythesameineverybrowser.com/>
 <img src="images/dowebsitesneedtolookexactlythesameineverybrowsercom.png" width="400px"/>
 
-### http://hasthelargehadroncolliderdestroyedtheworldyet.com/
+### <http://hasthelargehadroncolliderdestroyedtheworldyet.com/>
 <img src="images/hasthelargehadroncolliderdestroyedtheworldyetcom.png" width="400px"/>
 
-### http://didthetribewinlastnight.com/
+### <http://didthetribewinlastnight.com/>
 <img src="images/didthetribewinlastnightcom.png" width="400px"/>
 
-### https://isitchristmas.com/
+### <https://isitchristmas.com/>
 <img src="images/isitchristmascom.png" width="400px"/>
 
-### http://www.isxkcdshittytoday.com/
+### <http://www.isxkcdshittytoday.com/>
 <img src="images/isxkcdshittytodaycom.png" width="400px"/>
 
-### http://www.doeslifesuck.com/
+### <http://www.doeslifesuck.com/>
 <img src="images/doeslifesuckcom.png" width="400px"/>
 
-### http://www.howmanypeopleareinspacerightnow.com/
+### <http://www.howmanypeopleareinspacerightnow.com/>
 <img src="images/howmanypeopleareinspacerightnowcom.png" width="400px"/>
 
-### http://www.amiawesome.com/
+### <http://www.amiawesome.com/>
 <img src="images/amiawesomecom.png" width="400px"/>
 
-### http://www.whatcoloristheempirestatebuilding.com/
+### <http://www.whatcoloristheempirestatebuilding.com/>
 <img src="images/whatcoloristheempirestatebuildingcom.png" width="400px"/>
 
-### http://howmanydayssincemontaguestreetbridgehasbeenhit.com/
+### <http://howmanydayssincemontaguestreetbridgehasbeenhit.com/>
 <img src="images/howmanydayssincemontaguestreetbridgehasbeenhitcom.png" width="400px"/>
 
 
@@ -48,7 +48,7 @@ List of URLS that ask a question and return an answer in the body of the page
 # Special Mentions
 More sites that should be included
 
-### https://www.reddit.com/r/IsTodayFridayThe13th/
+### <https://www.reddit.com/r/IsTodayFridayThe13th/>
 <img src="images/istodayfridaythe13th.png" width="400px"/>
 
 
