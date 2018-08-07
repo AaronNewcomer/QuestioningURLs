@@ -61,15 +61,17 @@ List of URLS that ask a question and return an answer in the body of the page
 ### <http://doihaveswineflu.org/>
 <img src="images/doihaveswinefluorg.png" width="400px"/>
 
-
 ## Is Mr Brightside Still in the Charts?
 ### <http://ismrbrightsidestillinthecharts.com/>
 <img src="images/ismrbrightsidestillinthechartscom.png" width="400px"/>
 
-
 ## How Long Until Trump Leaves?
 ### <http://howlonguntiltrumpleaves.com/>
 <img src="images/howlonguntiltrumpleavescom.png" width="400px"/>
+
+## Is it April Fools?
+### <http://isitaprilfools.com/>
+<img src="images/isitaprilfoolscom.png" width="400px"/>
 
 
 
