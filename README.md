@@ -67,6 +67,11 @@ List of URLS that ask a question and return an answer in the body of the page
 <img src="images/ismrbrightsidestillinthechartscom.png" width="400px"/>
 
 
+## How Long Until Trump Leaves?
+### <http://howlonguntiltrumpleaves.com/>
+<img src="images/howlonguntiltrumpleavescom.png" width="400px"/>
+
+
 
 # Special Mentions
 More sites that should be included
