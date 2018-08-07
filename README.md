@@ -57,6 +57,10 @@ List of URLS that ask a question and return an answer in the body of the page
 ### <http://howmanydayssincemontaguestreetbridgehasbeenhit.com/>
 <img src="images/howmanydayssincemontaguestreetbridgehasbeenhitcom.png" width="400px"/>
 
+## Do I Have Swine Flu?
+### <http://doihaveswineflu.org/>
+<img src="images/doihaveswinefluorg.png" width="400px"/>
+
 
 
 # Special Mentions
