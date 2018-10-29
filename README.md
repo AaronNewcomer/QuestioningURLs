@@ -1,6 +1,10 @@
 # Questioning URLs
 List of URLS that ask a question and return an answer in the body of the page
 
+## Has Hue Jackson Been Fired Yet?
+### <https://hashuebeenfiredyet.com/>
+<img src="images/HasHueJacksonBeenFiredYetCom.png" width="400px"/>
+
 ## Is My Computer on?
 ### <http://ismycomputeron.com/>
 <img src="images/ismycomputeroncom.png" width="400px"/>
