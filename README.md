@@ -1,6 +1,11 @@
 # Questioning URLs
 List of URLS that ask a question and return an answer in the body of the page. 
 
+## Is Apple Silicon Ready?
+### <https://isapplesiliconready.com/>
+<img src="images/isapplesiliconready.png" width="400px"/>
+
+
 ## Is My Computer on?
 ### <http://ismycomputeron.com/>
 <img src="images/ismycomputeroncom.png" width="400px"/>
