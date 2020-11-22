@@ -1,9 +1,5 @@
 # Questioning URLs
-List of URLS that ask a question and return an answer in the body of the page
-
-## Has Hue Jackson Been Fired Yet?
-### <https://hashuebeenfiredyet.com/>
-<img src="images/HasHueJacksonBeenFiredYetCom.png" width="400px"/>
+List of URLS that ask a question and return an answer in the body of the page. 
 
 ## Is My Computer on?
 ### <http://ismycomputeron.com/>
@@ -48,6 +44,10 @@ List of URLS that ask a question and return an answer in the body of the page
 ## How Many People are in Space Right Now?
 ### <http://www.howmanypeopleareinspacerightnow.com/>
 <img src="images/howmanypeopleareinspacerightnowcom.png" width="400px"/>
+
+## Has Hue Jackson Been Fired Yet?
+### <https://hashuebeenfiredyet.com/> (dead link)
+<img src="images/HasHueJacksonBeenFiredYetCom.png" width="400px"/>
 
 ## Am I Awesome?
 ### <http://www.amiawesome.com/>
